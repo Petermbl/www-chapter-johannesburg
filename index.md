@@ -29,7 +29,7 @@ The following is the list of organisations who have generously provided us with 
 <table cellpadding="10" cellspacing="0" border="0">
 <tr>
 <td>
-<img src="assets/images/Nedbank.jpg" alt="Nedbank Group Technology"/>
+<img src="assets/images/Nedbank.png" alt="Nedbank Group Technology"/>
 
 </table>
 
